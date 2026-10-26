@@ -1,0 +1,14 @@
+.venv/
+.python-runtime/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+artifacts/
+dist/
+*.pyc
+
+# Instructor-only material must never be committed or published.
+**/instructor/
+
+# Week 2 material is excluded for now.
+/lecture_02/

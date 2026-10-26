@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Workshop: waypoint challenge",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "lecture_02.main",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Workshop: holonomic demo",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "lecture_02.demo",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
