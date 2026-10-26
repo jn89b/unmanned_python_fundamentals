@@ -31,7 +31,7 @@ Restart your terminal and run `uv --version`. See the [uv installation guide](ht
 Replace `REPOSITORY_URL` with the URL from your instructor:
 
 ```sh
-git clone REPOSITORY_URL unmanned_python_fundamentals
+git clone https://github.com/jn89b/unmanned_python_fundamentals.git
 cd unmanned_python_fundamentals
 ```
 
