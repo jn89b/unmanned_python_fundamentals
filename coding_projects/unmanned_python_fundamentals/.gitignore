@@ -12,3 +12,5 @@ dist/
 
 # Week 2 material is excluded for now.
 /lecture_02/
+
+plan.md*
